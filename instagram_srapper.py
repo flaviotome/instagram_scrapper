@@ -116,7 +116,7 @@ url_list = ["https://www.instagram.com/p/C1PHrZGouGR/",
             "https://www.instagram.com/p/C1J5PacoaYV/"            
             ]
 print("Login...")
-if instagramLogin("flavio_m2@hotmail.com", "flavioso23"):
+if instagramLogin("", ""):
     #Go to the page
 
     result_dataframe = pd.DataFrame()
